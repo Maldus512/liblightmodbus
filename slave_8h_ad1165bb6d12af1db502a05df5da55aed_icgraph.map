@@ -1,0 +1,13 @@
+<map id="modbusSlaveAllocateResponse" name="modbusSlaveAllocateResponse">
+<area shape="rect" id="Node000001" title="Allocates memory for slave&#39;s response frame." alt="" coords="250,144,455,169"/>
+<area shape="rect" id="Node000002" href="$slave_8impl_8h.html#af2a4ff5631f6b06e8864364780590035" title="Builds an exception response frame." alt="" coords="8,5,199,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,136,266,99,200,61,171,49,173,44,203,57,268,94,323,132"/>
+<area shape="rect" id="Node000003" href="$slave__func_8impl_8h.html#a648853599bb5c890d3dc98e12be07b0c" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." alt="" coords="5,71,202,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,142,183,115,184,109,286,136"/>
+<area shape="rect" id="Node000004" href="$slave__func_8impl_8h.html#ae620115b63da2d0c40e552889be5d3b3" title="Handles requests 05 and 06 (Write Single XX) and generates response." alt="" coords="5,136,202,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,159,202,159,202,154,234,154"/>
+<area shape="rect" id="Node000005" href="$slave__func_8impl_8h.html#a4ee99d7a0fea397f6bf53fafbdc139e1" title="Handles requests 15 and 16 (Write Multiple XX) and generates response." alt="" coords="5,201,202,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="286,176,184,203,183,198,285,171"/>
+<area shape="rect" id="Node000006" href="$slave__func_8impl_8h.html#a446bf506f887f17f17c491d6d863c446" title="Handles request 22 (Mask Write Register) and generates response." alt="" coords="5,267,202,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="323,181,268,218,203,256,173,269,171,264,200,251,266,214,320,177"/>
+</map>

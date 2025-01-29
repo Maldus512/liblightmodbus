@@ -1,27 +1,5 @@
 var searchData=
 [
-  ['register_2dcallback_2edox',['register-callback.dox',['../register-callback_8dox.html',1,'']]],
-  ['registercallback',['registerCallback',['../structmodbusSlave.html#ad1dbc7192d813f9e2edda3648d8c8413',1,'modbusSlave']]],
-  ['registercallbackcontext',['registerCallbackContext',['../structmodbusSlave.html#ac53bcfe99447ba06aa63fa2745af1b54',1,'modbusSlave']]],
-  ['registercount',['registerCount',['../structmodbusSlave.html#af59191e78cf6cce10cd39ea182412229',1,'modbusSlave']]],
-  ['registermask',['registerMask',['../structmodbusSlave.html#ac0c698364c367c56718ab5d80a65ad7e',1,'modbusSlave']]],
-  ['registermasklength',['registerMaskLength',['../structmodbusSlave.html#a17ac31a41d3be4d66249357f288642b2',1,'modbusSlave']]],
-  ['registers',['registers',['../structmodbusSlave.html#a087a68ac6cc2a32ffcabac619308c2a9',1,'modbusSlave']]],
-  ['regs',['regs',['../structmodbusMaster.html#aff967b3da3166fab4571de593bd9e315',1,'modbusMaster::regs()'],['../structmodbusMaster.html#a41009f7aa682c9353401ab3d97650197',1,'modbusMaster::regs()']]],
-  ['request',['request',['../structmodbusMaster.html#ab57061e09cac0c25d9c7e5225fb041e4',1,'modbusMaster::request()'],['../structmodbusSlave.html#aa4cc16ac40b371be2b2179523b8ff75b',1,'modbusSlave::request()']]],
-  ['request0102',['request0102',['../unionmodbusParser.html#a17c55071cb4adb4bbb9afc88a143297a',1,'modbusParser']]],
-  ['request0304',['request0304',['../unionmodbusParser.html#a1b6096f8a31622bead276b887f8cef91',1,'modbusParser']]],
-  ['request05',['request05',['../unionmodbusParser.html#a2b9874806c4c6ca16359535887049c1f',1,'modbusParser']]],
-  ['request06',['request06',['../unionmodbusParser.html#affd5c1054e0cd8dadbccc9bbd89f84dd',1,'modbusParser']]],
-  ['request15',['request15',['../unionmodbusParser.html#a18a50eef6a30a60c73a1ac30fc8450f9',1,'modbusParser']]],
-  ['request16',['request16',['../unionmodbusParser.html#ac0d4c30a331088bb5dbaa99e00253f7f',1,'modbusParser']]],
-  ['request22',['request22',['../unionmodbusParser.html#ab0d556c76ea2d6ee83700d4b3904e0e7',1,'modbusParser']]],
-  ['response',['response',['../structmodbusMaster.html#a405ff7ecae677b06282ec883cc5d7179',1,'modbusMaster::response()'],['../structmodbusSlave.html#a2a03374965cea9f13c5d17e7db0eb741',1,'modbusSlave::response()']]],
-  ['response0102',['response0102',['../unionmodbusParser.html#aadf5c597614cb7064939a4c7d6d827d9',1,'modbusParser']]],
-  ['response0304',['response0304',['../unionmodbusParser.html#aab2d838ff4edd696550165077e5f16a2',1,'modbusParser']]],
-  ['response05',['response05',['../unionmodbusParser.html#ac0ff594e7fa09656d8c3dc2d5238e7f4',1,'modbusParser']]],
-  ['response06',['response06',['../unionmodbusParser.html#a2e4a5bd5b9c7448c432ee434a12b0630',1,'modbusParser']]],
-  ['response15',['response15',['../unionmodbusParser.html#ae079de8f07bcd04ce687a1d7c21fbaa9',1,'modbusParser']]],
-  ['response16',['response16',['../unionmodbusParser.html#a4b13a80c09d28d9199626a6634c49d4f',1,'modbusParser']]],
-  ['response22',['response22',['../unionmodbusParser.html#ad9c0a0f175088a1b3b60e7bf983590aa',1,'modbusParser']]]
+  ['only_20hardware_20agnostic_20modbus_20rtu_20tcp_20library_0',['liblightmodbus - a lightweight, header-only, hardware-agnostic Modbus RTU/TCP library',['../index.html',1,'']]],
+  ['operator_3d_1',['operator=',['../classllm_1_1Slave.html#a30df7eee242fe41a35a32d698aacb6a1',1,'llm::Slave::operator=(const Slave &amp;)=delete'],['../classllm_1_1Slave.html#a1d453b5dc3e8a477a249a79be1a91dcc',1,'llm::Slave::operator=(Slave &amp;&amp;)=delete'],['../classllm_1_1Master.html#ae089a62a2031163e101d0ab7d5f9e3ea',1,'llm::Master::operator=(const Master &amp;)=delete'],['../classllm_1_1Master.html#a5824526a25cc2c4bc5f8c026bc36c2c4',1,'llm::Master::operator=(Master &amp;&amp;)=delete']]]
 ];

@@ -1,0 +1,15 @@
+<map id="llm::Master::Master" name="llm::Master::Master">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,136,80"/>
+<area shape="rect" id="Node000002" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="184,55,309,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,65,168,65,168,70,136,70"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="364,5,524,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,51,374,33,375,38,302,57"/>
+<area shape="rect" id="Node000005" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="362,55,525,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="309,65,346,65,346,70,309,70"/>
+<area shape="rect" id="Node000006" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="357,104,530,130"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="302,78,375,97,374,102,300,84"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="578,55,724,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="502,29,580,48,579,53,500,34"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="526,65,563,65,563,70,526,70"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="500,101,579,82,580,87,502,106"/>
+</map>

@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['frame',['frame',['../structmodbusMaster.html#a87777251a9e4fcdec86f063b5231f6af',1,'modbusMaster::frame()'],['../structmodbusMaster.html#ad230a62aa7bb2cab5e51c71a944a20f6',1,'modbusMaster::frame()'],['../structmodbusMaster.html#af3fd2f63623b0f3f9eb04387572096a1',1,'modbusMaster::frame()'],['../unionmodbusParser.html#afd62fe57ac8220114609c333316ddd3d',1,'modbusParser::frame()'],['../structmodbusSlave.html#af9d77c3bff19196a3c194adf4cf23531',1,'modbusSlave::frame()'],['../structmodbusSlave.html#ad446a5cb736d526ee0c5d7f3bb227f2a',1,'modbusSlave::frame()'],['../structmodbusSlave.html#af588ebfb1c9ae0333c0ca04bb87cd0f8',1,'modbusSlave::frame()']]],
-  ['function',['function',['../structmodbusMasterUserFunction.html#a50d8cb84be9e546291c79c8b047fff24',1,'modbusMasterUserFunction::function()'],['../structmodbusMaster.html#a799b0eb55a9ffaaad575848f860799a5',1,'modbusMaster::function()'],['../structmodbusSlaveUserFunction.html#aa7f93c01464ed8d82526b9c02b655862',1,'modbusSlaveUserFunction::function()']]]
+  ['id_0',['id',['../structModbusMasterFunctionHandler.html#a019bdf2f0ffb0d9137760c58b73e4fa9',1,'ModbusMasterFunctionHandler::id'],['../structModbusSlaveFunctionHandler.html#a51849c5ab9cf1c932588e63a3c70e55f',1,'ModbusSlaveFunctionHandler::id']]],
+  ['index_1',['index',['../structModbusDataCallbackArgs.html#aa74530fdd8af6db1bf86226c61c02235',1,'ModbusDataCallbackArgs::index'],['../structModbusRegisterCallbackArgs.html#ac5c5eb97d6d21ffa4faa528c2a409d8f',1,'ModbusRegisterCallbackArgs::index']]]
 ];

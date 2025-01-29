@@ -1,4 +1,0 @@
-<map id="modbusBuildException" name="modbusBuildException">
-<area shape="rect" id="node2" href="$lightmodbus_8c.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data. " alt="" coords="208,5,307,32"/>
-<area shape="rect" id="node3" href="$lightmodbus_8h.html#ace574447e6e4b53e4c7d29f69a1c8358" title="Swaps endianness of provided 16&#45;bit data portion. " alt="" coords="355,5,496,32"/>
-</map>

@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['lastexception',['lastException',['../structmodbusSlave.html#a591de1860c11e5e0555f55ae41d20001',1,'modbusSlave']]],
-  ['length',['length',['../structmodbusMaster.html#a579ad7e6c6247024da2e63cf4a28cfbb',1,'modbusMaster::length()'],['../structmodbusSlave.html#ab401b648ffcefd59ce277821b2334353',1,'modbusSlave::length()']]]
+  ['padding_0',['padding',['../structModbusBuffer.html#af071e584faa4bb9a34423eccd204d93f',1,'ModbusBuffer']]],
+  ['pdu_1',['pdu',['../structModbusBuffer.html#ae10b06d9913fe444dc75dfb875572d2e',1,'ModbusBuffer']]],
+  ['pduoffset_2',['pduOffset',['../structModbusBuffer.html#a25edc1eea4563ee3c563fbb7f8b3bda7',1,'ModbusBuffer']]],
+  ['ptr_3',['ptr',['../structModbusMasterFunctionHandler.html#af632ddfa893c8f87073725b6ce2badfe',1,'ModbusMasterFunctionHandler::ptr'],['../structModbusSlaveFunctionHandler.html#a1bf790ec0c28be03df6ec4a567ce29f2',1,'ModbusSlaveFunctionHandler::ptr']]]
 ];

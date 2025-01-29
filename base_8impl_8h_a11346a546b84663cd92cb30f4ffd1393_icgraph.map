@@ -1,0 +1,16 @@
+<map id="modbusCRC" name="modbusCRC">
+<area shape="rect" id="Node000001" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="437,120,531,145"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="257,86,382,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="421,122,381,114,382,109,422,117"/>
+<area shape="rect" id="Node000006" href="$base_8h.html#a4dba88e9baf690b8dafa0fad81eb7d07" title="Unpacks data from a Modbus RTU frame and optionally checks CRC." alt="" coords="250,144,389,169"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="422,144,390,149,389,144,421,139"/>
+<area shape="rect" id="Node000003" href="$slave_8impl_8h.html#a90b11d29191ccfd6393ea9be9a7e65e5" title="Builds a Modbus RTU exception." alt="" coords="8,5,199,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,83,165,49,167,44,265,78"/>
+<area shape="rect" id="Node000004" href="$master_8impl_8h.html#a63e771eba2a9fe1a62a7cbb168a6db90" title="Finalizes a Modbus RTU request." alt="" coords="11,71,196,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="242,99,196,97,196,92,242,93"/>
+<area shape="rect" id="Node000005" href="$slave_8impl_8h.html#afa8be870ae62f17ac8bc258714c2eb99" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="5,136,202,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="255,119,184,138,182,133,253,114"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="234,159,202,159,202,154,234,154"/>
+<area shape="rect" id="Node000007" href="$master_8impl_8h.html#af5a88d5f12f8e01fd7228f14c67b3b8f" title="Parses a Modbus RTU slave response." alt="" coords="5,201,202,242"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="260,177,174,203,172,198,259,172"/>
+</map>

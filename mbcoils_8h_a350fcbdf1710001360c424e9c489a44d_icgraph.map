@@ -1,4 +1,0 @@
-<map id="modbusBuildRequest0102" name="modbusBuildRequest0102">
-<area shape="rect" id="node2" href="$mbcoils_8h.html#a2ad440a0c44a883babab77f2dced4fde" title="Builds request 01 (read multiple coils) frame. " alt="" coords="228,5,388,32"/>
-<area shape="rect" id="node3" href="$mbcoils_8h.html#aa6799ac9a80311566dc7c456f8529472" title="Builds request 02 (read multiple discrete inputs) frame. " alt="" coords="228,56,388,83"/>
-</map>

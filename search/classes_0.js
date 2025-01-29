@@ -1,8 +1,4 @@
 var searchData=
 [
-  ['modbusmaster',['modbusMaster',['../structmodbusMaster.html',1,'']]],
-  ['modbusmasteruserfunction',['modbusMasterUserFunction',['../structmodbusMasterUserFunction.html',1,'']]],
-  ['modbusparser',['modbusParser',['../unionmodbusParser.html',1,'']]],
-  ['modbusslave',['modbusSlave',['../structmodbusSlave.html',1,'']]],
-  ['modbusslaveuserfunction',['modbusSlaveUserFunction',['../structmodbusSlaveUserFunction.html',1,'']]]
+  ['generalerror_0',['GeneralError',['../classllm_1_1GeneralError.html',1,'llm']]]
 ];

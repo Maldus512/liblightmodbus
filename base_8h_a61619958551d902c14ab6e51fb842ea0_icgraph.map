@@ -1,0 +1,17 @@
+<map id="modbusCheckRangeU16" name="modbusCheckRangeU16">
+<area shape="rect" id="Node000001" title="Checks whether provided address range causes an uint16_t overflow." alt="" coords="250,209,415,234"/>
+<area shape="rect" id="Node000002" href="$master__func_8impl_8h.html#a2a17495474de4ed91efe8df2bf11d16f" title="Read mutiple coils/discrete inputs/holding registers/input registers." alt="" coords="8,5,199,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="315,197,269,129,237,93,200,61,179,49,181,44,203,57,241,89,273,126,319,194"/>
+<area shape="rect" id="Node000003" href="$master__func_8impl_8h.html#a9ca285925fdd221a3f59d591e7c236b9" title="Write multiple coils." alt="" coords="8,71,199,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="304,200,257,163,200,127,173,114,175,109,203,122,260,159,307,196"/>
+<area shape="rect" id="Node000004" href="$master__func_8impl_8h.html#ac887d4fcbfe16f37d1b829309c374795" title="Write multiple holding registers." alt="" coords="8,136,199,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,207,177,180,178,175,271,202"/>
+<area shape="rect" id="Node000005" href="$slave__func_8impl_8h.html#a648853599bb5c890d3dc98e12be07b0c" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." alt="" coords="5,201,202,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="234,224,202,224,202,219,234,219"/>
+<area shape="rect" id="Node000006" href="$slave__func_8impl_8h.html#a4ee99d7a0fea397f6bf53fafbdc139e1" title="Handles requests 15 and 16 (Write Multiple XX) and generates response." alt="" coords="5,267,202,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="271,242,178,269,177,263,270,237"/>
+<area shape="rect" id="Node000007" href="$master__func_8impl_8h.html#a6956bac7f2cf05dd654da656048bfe2b" title="Parses response to requests 01, 02, 03 and 04." alt="" coords="5,332,202,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="307,247,260,285,203,321,175,334,173,329,200,317,257,280,304,243"/>
+<area shape="rect" id="Node000008" href="$master__func_8impl_8h.html#acc34cc2d685590f9e302e402acef8f06" title="Parses response to requests 15 and 16 (write mutliple regsiters/coils)" alt="" coords="5,397,202,438"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="319,249,273,317,241,354,203,387,181,399,179,394,200,382,237,351,269,314,315,246"/>
+</map>

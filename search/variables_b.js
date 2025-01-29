@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['type',['type',['../structmodbusMaster.html#aa9be781713b71742e5dd8a25eed343e8',1,'modbusMaster']]]
+  ['source_0',['source',['../structModbusErrorInfo.html#a5c18036ddf57178efc5e9f8457291010',1,'ModbusErrorInfo']]]
 ];

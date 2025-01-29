@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['base',['base',['../unionmodbusParser.html#ae20f024dfa658a1e873e47eab0655432',1,'modbusParser']]],
-  ['builderror',['buildError',['../structmodbusMaster.html#a4d4331ff07592000b193b55c6ce70934',1,'modbusMaster']]]
+  ['context_0',['context',['../structModbusMaster.html#a98653274a9c82a004a317ea9bfe4796d',1,'ModbusMaster::context'],['../structModbusSlave.html#a72df77ddc9096f601c022a33606e1143',1,'ModbusSlave::context']]]
 ];

@@ -1,0 +1,49 @@
+<map id="modbusBufferAllocateADU" name="modbusBufferAllocateADU">
+<area shape="rect" id="Node000001" title="Allocates memory to hold Modbus ADU." alt="" coords="933,341,1109,367"/>
+<area shape="rect" id="Node000002" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="718,129,846,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="992,333,796,157,800,153,995,329"/>
+<area shape="rect" id="Node000013" href="$master_8h.html#a004b932b2b69ad0c6649c26d974146b2" title="Allocates memory for the request frame." alt="" coords="681,341,883,367"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="917,357,884,357,884,352,917,352"/>
+<area shape="rect" id="Node000019" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." alt="" coords="679,635,885,660"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="1001,381,796,636,792,632,997,377"/>
+<area shape="rect" id="Node000003" href="$base_8impl_8h.html#ac4ff5a6ae685570f045448e76e518a0c" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" alt="" coords="460,55,606,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="729,126,631,94,591,83,593,78,632,89,731,121"/>
+<area shape="rect" id="Node000008" href="$master_8h.html#a040a82085ce05ff95c53d3dca4c3acfd" title="Frees memory allocated for master&#39;s request frame." alt="" coords="442,104,624,130"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="702,137,624,129,624,123,703,131"/>
+<area shape="rect" id="Node000010" href="$slave_8h.html#aac289ce160ea61287c98e8a1ee4353d5" title="Frees memory allocated for slave&#39;s response frame." alt="" coords="441,153,625,179"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="703,152,626,160,626,155,702,147"/>
+<area shape="rect" id="Node000004" href="$master_8impl_8h.html#a5fe38fae0f89de04fa616d105f660d25" title="Deinitializes a ModbusMaster struct." alt="" coords="213,5,364,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="450,54,356,34,357,29,452,48"/>
+<area shape="rect" id="Node000006" href="$slave_8impl_8h.html#a70695c3b7355bc0a3e6d49c46a4eef1f" title="Frees memory allocated in the ModbusSlave struct." alt="" coords="217,55,361,80"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="445,70,361,70,361,65,445,65"/>
+<area shape="rect" id="Node000005" href="$classllm_1_1Master.html#adae54d760d1eb2f0babcaff59325376d" title=" " alt="" coords="5,5,143,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="198,21,143,21,143,16,198,16"/>
+<area shape="rect" id="Node000007" href="$classllm_1_1Slave.html#a46b8ac6f2b8dee5550d18bd7f1dd355d" title=" " alt="" coords="12,55,136,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="201,70,136,70,136,65,201,65"/>
+<area shape="rect" id="Node000009" href="$classllm_1_1Master.html#a6c3883d0f98a5b4255a02f46f33c2423" title=" " alt="" coords="209,104,369,130"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="427,120,369,120,369,114,427,114"/>
+<area shape="rect" id="Node000011" href="$classllm_1_1Slave.html#aadbd0a4dc7769b5c393d6dfe5a344b8a" title=" " alt="" coords="207,153,370,179"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="425,169,371,169,371,164,425,164"/>
+<area shape="rect" id="Node000012" href="$slave_8impl_8h.html#afa8be870ae62f17ac8bc258714c2eb99" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="191,203,387,244"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="461,186,379,205,378,200,460,180"/>
+<area shape="rect" id="Node000014" href="$master__func_8impl_8h.html#a2a17495474de4ed91efe8df2bf11d16f" title="Read mutiple coils/discrete inputs/holding registers/input registers." alt="" coords="438,203,629,244"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="749,334,695,297,630,259,601,247,603,242,633,254,698,292,752,329"/>
+<area shape="rect" id="Node000015" href="$master__func_8impl_8h.html#a215655635f299f22ccd8eb3d79774357" title="Write single coil/holding register." alt="" coords="438,268,629,309"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="715,339,613,312,614,307,716,334"/>
+<area shape="rect" id="Node000016" href="$master__func_8impl_8h.html#a9ca285925fdd221a3f59d591e7c236b9" title="Write multiple coils." alt="" coords="438,334,629,374"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="665,357,629,357,629,352,665,352"/>
+<area shape="rect" id="Node000017" href="$master__func_8impl_8h.html#ac887d4fcbfe16f37d1b829309c374795" title="Write multiple holding registers." alt="" coords="438,399,629,440"/>
+<area shape="poly" id="edge16_Node000013_Node000017" title=" " alt="" coords="716,374,614,401,613,396,715,369"/>
+<area shape="rect" id="Node000018" href="$master__func_8impl_8h.html#a1f876a7195e7ae76b89ff7aace454590" title="Mask write register request." alt="" coords="438,464,629,505"/>
+<area shape="poly" id="edge17_Node000013_Node000018" title=" " alt="" coords="752,379,698,416,633,454,603,466,601,462,630,449,695,412,749,374"/>
+<area shape="rect" id="Node000020" href="$slave_8impl_8h.html#af2a4ff5631f6b06e8864364780590035" title="Builds an exception response frame." alt="" coords="438,530,629,570"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="737,630,630,586,596,574,598,569,632,581,739,626"/>
+<area shape="rect" id="Node000021" href="$slave__func_8impl_8h.html#a648853599bb5c890d3dc98e12be07b0c" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." alt="" coords="435,595,631,636"/>
+<area shape="poly" id="edge20_Node000019_Node000021" title=" " alt="" coords="663,635,632,631,632,626,664,630"/>
+<area shape="rect" id="Node000022" href="$slave__func_8impl_8h.html#ae620115b63da2d0c40e552889be5d3b3" title="Handles requests 05 and 06 (Write Single XX) and generates response." alt="" coords="435,660,631,701"/>
+<area shape="poly" id="edge21_Node000019_Node000022" title=" " alt="" coords="667,666,632,670,632,665,666,660"/>
+<area shape="rect" id="Node000023" href="$slave__func_8impl_8h.html#a4ee99d7a0fea397f6bf53fafbdc139e1" title="Handles requests 15 and 16 (Write Multiple XX) and generates response." alt="" coords="435,726,631,766"/>
+<area shape="poly" id="edge22_Node000019_Node000023" title=" " alt="" coords="739,670,632,715,599,728,597,723,630,710,737,665"/>
+<area shape="rect" id="Node000024" href="$slave__func_8impl_8h.html#a446bf506f887f17f17c491d6d863c446" title="Handles request 22 (Mask Write Register) and generates response." alt="" coords="435,791,631,832"/>
+<area shape="poly" id="edge23_Node000019_Node000024" title=" " alt="" coords="760,674,705,727,670,755,633,780,607,793,605,788,630,776,667,751,702,723,757,670"/>
+</map>

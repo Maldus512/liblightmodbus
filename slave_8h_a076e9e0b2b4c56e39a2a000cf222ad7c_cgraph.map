@@ -1,5 +1,0 @@
-<map id="modbusBuildExceptionErr" name="modbusBuildExceptionErr">
-<area shape="rect" id="node2" href="$slave_8h.html#a6cfceebdf88ce18dae14d246374ff989" title="Builds an exception frame and stores it in the ModbusSlave structure. " alt="" coords="225,5,380,32"/>
-<area shape="rect" id="node3" href="$lightmodbus_8c.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data. " alt="" coords="428,5,527,32"/>
-<area shape="rect" id="node4" href="$lightmodbus_8h.html#ace574447e6e4b53e4c7d29f69a1c8358" title="Swaps endianness of provided 16&#45;bit data portion. " alt="" coords="575,5,716,32"/>
-</map>

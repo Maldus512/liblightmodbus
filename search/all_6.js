@@ -1,5 +1,9 @@
 var searchData=
 [
-  ['frame',['frame',['../structmodbusMaster.html#a87777251a9e4fcdec86f063b5231f6af',1,'modbusMaster::frame()'],['../structmodbusMaster.html#ad230a62aa7bb2cab5e51c71a944a20f6',1,'modbusMaster::frame()'],['../structmodbusMaster.html#af3fd2f63623b0f3f9eb04387572096a1',1,'modbusMaster::frame()'],['../unionmodbusParser.html#afd62fe57ac8220114609c333316ddd3d',1,'modbusParser::frame()'],['../structmodbusSlave.html#af9d77c3bff19196a3c194adf4cf23531',1,'modbusSlave::frame()'],['../structmodbusSlave.html#ad446a5cb736d526ee0c5d7f3bb227f2a',1,'modbusSlave::frame()'],['../structmodbusSlave.html#af588ebfb1c9ae0333c0ca04bb87cd0f8',1,'modbusSlave::frame()']]],
-  ['function',['function',['../structmodbusMasterUserFunction.html#a50d8cb84be9e546291c79c8b047fff24',1,'modbusMasterUserFunction::function()'],['../structmodbusMaster.html#a799b0eb55a9ffaaad575848f860799a5',1,'modbusMaster::function()'],['../structmodbusSlaveUserFunction.html#aa7f93c01464ed8d82526b9c02b655862',1,'modbusSlaveUserFunction::function()']]]
+  ['freerequest_0',['freeRequest',['../classllm_1_1Master.html#a6c3883d0f98a5b4255a02f46f33c2423',1,'llm::Master']]],
+  ['freeresponse_1',['freeResponse',['../classllm_1_1Slave.html#aadbd0a4dc7769b5c393d6dfe5a344b8a',1,'llm::Slave']]],
+  ['from_20v2_200_20to_20v3_200_2',['Porting code from v2.0 to v3.0',['../porting.html',1,'']]],
+  ['function_3',['function',['../structModbusDataCallbackArgs.html#a164f69c8dc82314a92fbbcfc8fbab7dc',1,'ModbusDataCallbackArgs::function'],['../structModbusRegisterCallbackArgs.html#a4b9aa7794ff24a924d3c917140c32231',1,'ModbusRegisterCallbackArgs::function']]],
+  ['functioncount_4',['functionCount',['../structModbusMaster.html#ae37593b1a10fd8d73228e40ad7c5fe89',1,'ModbusMaster::functionCount'],['../structModbusSlave.html#a032692261e4c61f673c5a90b661d5917',1,'ModbusSlave::functionCount']]],
+  ['functions_5',['functions',['../structModbusMaster.html#aa52d02053ec246f426dc9ad63c9797a4',1,'ModbusMaster::functions'],['../structModbusSlave.html#a317bf6a51a6b0fb3b8fee77bbc517fe1',1,'ModbusSlave::functions'],['../user-functions.html',1,'User-defined functions']]]
 ];

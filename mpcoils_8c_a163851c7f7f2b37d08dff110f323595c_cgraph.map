@@ -1,8 +1,0 @@
-<map id="modbusParseResponse0102" name="modbusParseResponse0102">
-<area shape="rect" id="node2" href="$lightmodbus_8h.html#ae52f901ce7500d91457c00960fee0807" title="Swaps endianness of provided 16&#45;bit data portion if needed. " alt="" coords="243,51,387,78"/>
-<area shape="rect" id="node7" href="$lightmodbus_8h.html#af23a50b36bef9c09ac82214a52ff4d58" title="Converts number of bits to number of bytes required to store them. " alt="" coords="245,102,385,129"/>
-<area shape="rect" id="node3" href="$lightmodbus_8h.html#ace574447e6e4b53e4c7d29f69a1c8358" title="Swaps endianness of provided 16&#45;bit data portion. " alt="" coords="613,51,755,78"/>
-<area shape="rect" id="node4" href="$lightmodbus_8h.html#aa89cf1cbcb0bd625a9e5b969b92a204a" title="Reads n&#45;th bit from an array. " alt="" coords="435,26,565,53"/>
-<area shape="rect" id="node5" href="$lightmodbus_8h.html#a6be91dfd3bcb6f31701be074018efc24" title="Writes n&#45;th bit in an array. " alt="" coords="435,77,565,103"/>
-<area shape="rect" id="node6" href="$lightmodbus_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data. " alt="" coords="451,127,549,154"/>
-</map>

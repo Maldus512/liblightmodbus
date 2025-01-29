@@ -1,0 +1,20 @@
+<map id="llm::Slave::parseRequestTCP" name="llm::Slave::parseRequestTCP">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,82,195,108"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="258,33,353,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,79,242,58,243,63,157,84"/>
+<area shape="rect" id="Node000005" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="243,106,368,132"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="195,103,227,107,227,113,195,109"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="637,108,783,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="344,30,394,16,456,6,524,4,558,9,590,18,620,33,648,52,690,93,687,97,644,56,618,37,588,23,557,14,524,10,457,11,395,21,345,35"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="424,33,581,59"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="353,43,409,43,409,48,353,48"/>
+<area shape="rect" id="Node000006" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="422,82,583,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="368,109,407,104,407,109,369,114"/>
+<area shape="rect" id="Node000007" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="421,132,584,157"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="369,124,406,129,405,135,368,130"/>
+<area shape="rect" id="Node000008" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="416,181,589,207"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="334,130,417,167,435,173,433,178,415,172,332,135"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="583,102,622,107,622,112,583,107"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="585,132,622,128,622,133,585,138"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="555,178,588,167,664,137,666,142,590,172,557,183"/>
+</map>

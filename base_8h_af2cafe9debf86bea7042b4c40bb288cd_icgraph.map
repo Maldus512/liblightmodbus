@@ -1,0 +1,9 @@
+<map id="modbusPackRTU" name="modbusPackRTU">
+<area shape="rect" id="Node000001" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="250,78,374,104"/>
+<area shape="rect" id="Node000002" href="$slave_8impl_8h.html#a90b11d29191ccfd6393ea9be9a7e65e5" title="Builds a Modbus RTU exception." alt="" coords="8,5,199,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,76,170,49,172,44,255,70"/>
+<area shape="rect" id="Node000003" href="$master_8impl_8h.html#a63e771eba2a9fe1a62a7cbb168a6db90" title="Finalizes a Modbus RTU request." alt="" coords="11,71,196,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,94,196,94,196,88,234,88"/>
+<area shape="rect" id="Node000004" href="$slave_8impl_8h.html#afa8be870ae62f17ac8bc258714c2eb99" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="5,136,202,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,112,172,138,170,133,253,106"/>
+</map>

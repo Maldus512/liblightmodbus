@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['modbusdatatype',['modbusDataType',['../lightmodbus_8h.html#a122006b5ead222e63c4dc35b72054acf',1,'lightmodbus.h']]],
-  ['modbuserror',['modbusError',['../lightmodbus_8h.html#a0e53935196f8baab23b35aaac466a1ab',1,'lightmodbus.h']]],
-  ['modbusexceptioncode',['modbusExceptionCode',['../lightmodbus_8h.html#a7f8abd5db060712289592ea185bb1ac1',1,'lightmodbus.h']]],
-  ['modbusframeerror',['modbusFrameError',['../lightmodbus_8h.html#a13e6e5cf8cfe5f34e83916d0d440f846',1,'lightmodbus.h']]],
-  ['modbusregisterquery',['modbusRegisterQuery',['../slave_8h.html#ad7f9ffab0ad53209066bb7a7a668e792',1,'slave.h']]]
+  ['modbusdatatype_0',['ModbusDataType',['../base_8h.html#a2b4f849d9455a7247dd9a0c1dee46112',1,'base.h']]],
+  ['modbuserror_1',['ModbusError',['../base_8h.html#a3e91ea9ea1b4d5927573e6ec1d1cce6e',1,'base.h']]],
+  ['modbusexceptioncode_2',['ModbusExceptionCode',['../base_8h.html#a0b7f726dfaa2b4cf98aaaed1eb42fa72',1,'base.h']]],
+  ['modbusregisterquery_3',['ModbusRegisterQuery',['../slave_8h.html#af3b062fa65ce1ab33f86b8cbc9d250bc',1,'slave.h']]]
 ];
